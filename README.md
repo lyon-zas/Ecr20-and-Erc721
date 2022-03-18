@@ -6,11 +6,4 @@
 ### ipfs for NFT2: https://gateway.pinata.cloud/ipfs/QmVSb7xeLLAZ8B6DZ7kYNnL8CEFKwLrBweHvFCCrZ4w1Da
 
 
-###  Metadata structure: {
-###              name : // Any name
 
-###              image : // URL to image on IPFS,
-
-###              description: // Some text
-
-###     }
